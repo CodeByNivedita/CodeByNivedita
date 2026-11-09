@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**CodeByNivedita/CodeByNivedita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Your Name
+**Full-stack Developer | Open-Source Contributor**
 
-Here are some ideas to get you started:
+`Building scalable full-stack applications`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./banner.gif" width="700" alt="banner" />
+
+</div>
+
+## 👤 About Me
+
+```yaml
+name:     Your Name
+location: India
+role:     Full-stack Developer
+focus:    Scalable apps · Cloud-native · DevOps
+stack:    JS · TS · Python · Go · React · Node.js · Docker · AWS
+open_to:  OSS collaboration · interesting engineering problems
+hobbies:  ["Coding", "Open Source", "Traveling"]
+```
+
+---
+
+## 🏆 Achievements
+<!-- badges/screenshots go here, see section 4 -->
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
+</p>
+
+## 📈 GitHub Metrics
+<img src="./github-metrics.svg" alt="GitHub metrics" />
