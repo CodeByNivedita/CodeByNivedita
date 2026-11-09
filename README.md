@@ -3,9 +3,7 @@
 # Nivedita Kasaudhan
 **AI/ML Engineer | Agentic AI & LLM Builder**
 
-`Building intelligent agents and production-ready GenAI applications`
-
-<img src="./banner.gif" width="700" alt="banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+agentic+AI+systems;LLMs+%7C+RAG+%7C+LangGraph;Open+to+collaboration" alt="typing animation" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
@@ -31,11 +29,23 @@ hobbies:   ["Competitive Programming", "Building AI agents", "Mentoring juniors"
 
 ## 🚀 Featured Projects
 
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/VoyaAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=VoyaAI&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/LLM-Security-Gateway">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=LLM-Security-Gateway&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/ReconPilot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ReconPilot&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
 | Project | What it does | Tech |
 |---|---|---|
-| **[VoyaAI](YOUR_VOYAAI_LINK)** | Agentic travel planner that turns natural-language requests into full itineraries using a multi-agent LangGraph workflow | Python · LangGraph · Gemini 2.5 Flash · Pydantic · Streamlit |
-| **[LLM Security Gateway](YOUR_GATEWAY_REPO_LINK)** | Policy-driven middleware with input/output guardrails, rate limiting, API-key auth and a real-time audit dashboard | FastAPI · React · Vite · Docker · GitHub Actions |
-| **[ReconPilot](YOUR_RECONPILOT_LINK)** | AI financial reconciliation platform with an investigation agent, hallucination-detection layer and 15+ REST APIs | Python · FastAPI · JavaScript |
+| **VoyaAI** | Agentic travel planner that turns natural-language requests into full itineraries with a multi-agent LangGraph workflow | Python · LangGraph · Gemini 2.5 Flash · Pydantic · Streamlit |
+| **LLM Security Gateway** | Policy-driven middleware with guardrails, rate limiting, API-key auth and a real-time audit dashboard | FastAPI · React · Vite · Docker · GitHub Actions |
+| **ReconPilot** | AI financial reconciliation platform with an investigation agent, hallucination-detection layer and 15+ REST APIs | Python · FastAPI · JavaScript |
 
 ---
 
@@ -73,6 +83,14 @@ hobbies:   ["Competitive Programming", "Building AI agents", "Mentoring juniors"
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 GitHub Metrics
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" width="100%" />
+
+## 📊 GitHub Metrics
 
 <img src="./github-metrics.svg" alt="GitHub metrics" />
