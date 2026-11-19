@@ -27,19 +27,7 @@ hobbies:   ["Competitive Programming", "Building AI agents", "Mentoring juniors"
 
 ---
 
-## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/CodeByNivedita/VoyaAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=VoyaAI&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/CodeByNivedita/LLM-Security-Gateway">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=LLM-Security-Gateway&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/CodeByNivedita/ReconPilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ReconPilot&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 | Project | What it does | Tech |
 |---|---|---|
@@ -83,14 +71,3 @@ hobbies:   ["Competitive Programming", "Building AI agents", "Mentoring juniors"
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByNiveditaE&theme=tokyo-night&hide_border=true" width="100%" />
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/CodeByNivedita/CodeByNivedita/output/github-snake-dark.svg" width="100%" />
-
-## 📊 GitHub Metrics
-
-<img src="./github-metrics.svg" alt="GitHub metrics" />
